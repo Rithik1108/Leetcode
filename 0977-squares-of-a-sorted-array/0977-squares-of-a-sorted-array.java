@@ -11,10 +11,12 @@ class Solution {
         while (left <= right) {
 
             if (Math.abs(nums[left]) > Math.abs(nums[right])) {
-                ans[k--] = nums[left] * nums[left];
+                ans[k] = nums[left] * nums[left];
+                k--;
                 left++;
             } else {
-                ans[k--] = nums[right] * nums[right];
+                ans[k] = nums[right] * nums[right];
+                k--;
                 right--;
             }
         }
