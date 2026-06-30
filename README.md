@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Rithik1108/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Rithik1108/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithik1108/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithik1108/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithik1108/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -28,8 +29,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithik1108/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithik1108/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rithik1108/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithik1108/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rithik1108/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
