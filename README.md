@@ -19,6 +19,7 @@
 | [0016-3sum-closest](https://github.com/Rithik1108/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Rithik1108/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithik1108/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/Rithik1108/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithik1108/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithik1108/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rithik1108/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0202-happy-number](https://github.com/Rithik1108/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rithik1108/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rithik1108/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
@@ -64,4 +66,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithik1108/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rithik1108/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Rithik1108/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Rithik1108/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
