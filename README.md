@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Rithik1108/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rithik1108/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Rithik1108/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Rithik1108/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithik1108/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithik1108/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rithik1108/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -79,4 +80,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rithik1108/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Rithik1108/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
