@@ -14,6 +14,7 @@
 | [0904-fruit-into-baskets](https://github.com/Rithik1108/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithik1108/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithik1108/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rithik1108/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +82,5 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Rithik1108/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rithik1108/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rithik1108/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 <!---LeetCode Topics End-->
