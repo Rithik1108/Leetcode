@@ -108,4 +108,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Rithik1108/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0595-big-countries](https://github.com/Rithik1108/Leetcode/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
