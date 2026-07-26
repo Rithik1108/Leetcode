@@ -114,6 +114,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Rithik1108/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Rithik1108/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rithik1108/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0584-find-customer-referee](https://github.com/Rithik1108/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Rithik1108/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/Rithik1108/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Rithik1108/Leetcode/tree/main/1251-average-selling-price/) | Easy |
