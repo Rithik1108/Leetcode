@@ -112,6 +112,7 @@
 | [0178-rank-scores](https://github.com/Rithik1108/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/Rithik1108/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Rithik1108/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Rithik1108/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Rithik1108/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rithik1108/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Rithik1108/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
