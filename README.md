@@ -120,6 +120,7 @@
 | [1148-article-views-i](https://github.com/Rithik1108/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/Rithik1108/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Rithik1108/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1683-invalid-tweets](https://github.com/Rithik1108/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rithik1108/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Rithik1108/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
